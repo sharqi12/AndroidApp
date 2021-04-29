@@ -10,7 +10,7 @@ the Android platform, demonstrating the basic facilities.
 * Load text from file
 * Camera operations that lets you take a picture
 * Network communication - opens Google site
-* Barometer showing cuurent atmospheric pressure
+* Barometer showing current atmospheric pressure
 
 ## Setup
 Clone the repo, open the project in Android Studio, hit "Run". Done!
