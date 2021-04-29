@@ -12,7 +12,16 @@ the Android platform, demonstrating the basic facilities.
 * Network communication - opens Google site
 * Barometer showing cuurent atmospheric pressure
 
-## Screenshots
-
 ## Setup
 Clone the repo, open the project in Android Studio, hit "Run". Done!
+
+## Screenshots
+<p float="left">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619677954.png" width="200" height="400">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619678141.png" width="200" height="400">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619677938.png" width="200" height="400">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619679171.png" width="200" height="400">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619679215.png" width="200" height="400">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619680479.png" width="200" height="400">
+<img src="https://github.com/sharqi12/AndroidApp/blob/master/Screenshots/Screenshot_1619680502.png" width="200" height="400">
+</p>
